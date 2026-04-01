@@ -63,7 +63,19 @@ Two classification models were implemented:
 > Note: High accuracy in Random Forest is due to strong correlation between features and placement outcome.
 
 ---
+##  Visualizations
 
+### Placement Distribution
+![Placement Distribution](placement_distribution.png)
+
+### CGPA vs Placement
+![CGPA vs Placement](cgpa_vs_placement.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 ##  Key Insights
 - Coding skills and internships are the most influential features
 - Higher CGPA significantly improves placement probability
